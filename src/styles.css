@@ -4,3 +4,4 @@
 .showcase{padding-top:0!important;background:#f5f3ed}.showcase figure{margin:0;max-width:1320px;margin-inline:auto}.showcase img{display:block;width:100%;border-radius:16px;border:1px solid #d7d1c5;box-shadow:0 24px 70px #14251f1c}.showcase figcaption{font-size:.92rem;color:#5c655f;margin-top:.9rem}
 .card{padding:0;overflow:hidden}.cardBody{padding:1.8rem 2rem 2rem}.caseImage{display:block;width:100%;aspect-ratio:16/8.7;object-fit:cover;object-position:top;border-bottom:1px solid #d7d1c5;background:#161119}
 @media(max-width:760px){.caseImage{aspect-ratio:16/10}.cardBody{padding:1.4rem}}
+
